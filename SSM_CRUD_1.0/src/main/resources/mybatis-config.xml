@@ -11,7 +11,7 @@
 	<typeAliases>
 		<package name="com.ssm.crud.bean"/>
 	</typeAliases>
-	
+
 	<plugins>
 		<plugin interceptor="com.github.pagehelper.PageInterceptor">
 			<!--分页参数合理化  -->
